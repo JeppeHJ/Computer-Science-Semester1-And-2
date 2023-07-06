@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EksamenProgrammering.iml" filepath="$PROJECT_DIR$/EksamenProgrammering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion20_Sammenhaeng1/Lektion20_Sammenhaeng1.iml" filepath="$PROJECT_DIR$/Lektion20_Sammenhaeng1/Lektion20_Sammenhaeng1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion21_Sammenhaeng2/Lektion21_Sammenhaeng2.iml" filepath="$PROJECT_DIR$/Lektion21_Sammenhaeng2/Lektion21_Sammenhaeng2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion22_Arkitektur/Lektion22_Arkitektur.iml" filepath="$PROJECT_DIR$/Lektion22_Arkitektur/Lektion22_Arkitektur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion23_Enumeration/Lektion23_Enumeration.iml" filepath="$PROJECT_DIR$/Lektion23_Enumeration/Lektion23_Enumeration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion27_Inheritance/Lektion27_Inheritance.iml" filepath="$PROJECT_DIR$/Lektion27_Inheritance/Lektion27_Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion28_Polymorfi/Lektion28_Polymorfi.iml" filepath="$PROJECT_DIR$/Lektion28_Polymorfi/Lektion28_Polymorfi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion29_InterfaceComparable/Lektion29_InterfaceComparable.iml" filepath="$PROJECT_DIR$/Lektion29_InterfaceComparable/Lektion29_InterfaceComparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion30_Soegning/Lektion30_Soegning.iml" filepath="$PROJECT_DIR$/Lektion30_Soegning/Lektion30_Soegning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion31_Simpel_Sortering/Lektion31_Simpel_Sortering.iml" filepath="$PROJECT_DIR$/Lektion31_Simpel_Sortering/Lektion31_Simpel_Sortering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion32_Algoritmer_IndsaetSorteretSekvens/Lektion32_Algoritmer_IndsaetSorteretSekvens.iml" filepath="$PROJECT_DIR$/Lektion32_Algoritmer_IndsaetSorteretSekvens/Lektion32_Algoritmer_IndsaetSorteretSekvens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion33_Exceptions_Files/Lektion33_Exceptions_Files.iml" filepath="$PROJECT_DIR$/Lektion33_Exceptions_Files/Lektion33_Exceptions_Files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion34_Fletning_Sekvenser/Lektion34_Fletning_Sekvenser.iml" filepath="$PROJECT_DIR$/Lektion34_Fletning_Sekvenser/Lektion34_Fletning_Sekvenser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S2_Lektion01_Rekursion1/S2_Lektion01_Rekursion1.iml" filepath="$PROJECT_DIR$/S2_Lektion01_Rekursion1/S2_Lektion01_Rekursion1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S2_Lektion02_Rekursion2/S2_Lektion02_Rekursion2.iml" filepath="$PROJECT_DIR$/S2_Lektion02_Rekursion2/S2_Lektion02_Rekursion2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S2_Lektion03_Del_Loes_Kombiner/S2_Lektion03_Del_Loes_Kombiner.iml" filepath="$PROJECT_DIR$/S2_Lektion03_Del_Loes_Kombiner/S2_Lektion03_Del_Loes_Kombiner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S2_Lektion04_Tidskompleksitet/S2_Lektion04_Tidskompleksitet.iml" filepath="$PROJECT_DIR$/S2_Lektion04_Tidskompleksitet/S2_Lektion04_Tidskompleksitet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S2_Lektion05_Collection_Framework/S2_Lektion05_Collection_Framework.iml" filepath="$PROJECT_DIR$/S2_Lektion05_Collection_Framework/S2_Lektion05_Collection_Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S2_Lektion06_Lambda/S2_Lektion06_Lambda.iml" filepath="$PROJECT_DIR$/S2_Lektion06_Lambda/S2_Lektion06_Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S2_Lektion08_Test/S2_Lektion08_Test.iml" filepath="$PROJECT_DIR$/S2_Lektion08_Test/S2_Lektion08_Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S2_Lektion11_Strategy_Observer_Pattern/S2_Lektion11_Strategy_Observer_Pattern.iml" filepath="$PROJECT_DIR$/S2_Lektion11_Strategy_Observer_Pattern/S2_Lektion11_Strategy_Observer_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S2_Lektion12_Singleton_Adapter_Pattern/S2_Lektion12_Singleton_Adapter_Pattern.iml" filepath="$PROJECT_DIR$/S2_Lektion12_Singleton_Adapter_Pattern/S2_Lektion12_Singleton_Adapter_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S2_Lektion13_Iterator_Composite_Pattern/S2_Lektion13_Iterator_Composite_Pattern.iml" filepath="$PROJECT_DIR$/S2_Lektion13_Iterator_Composite_Pattern/S2_Lektion13_Iterator_Composite_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S2_Lektion14_Serializable/S2_Lektion14_Serializable.iml" filepath="$PROJECT_DIR$/S2_Lektion14_Serializable/S2_Lektion14_Serializable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S2_Lektion21_Kaedet_Struktur/S2_Lektion21_Kaedet_Struktur.iml" filepath="$PROJECT_DIR$/S2_Lektion21_Kaedet_Struktur/S2_Lektion21_Kaedet_Struktur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S2_Lektion22_Stack/S2_Lektion22_Stack.iml" filepath="$PROJECT_DIR$/S2_Lektion22_Stack/S2_Lektion22_Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S2_Lektion23_Queue_CirkulaerList/S2_Lektion23_Queue_CirkulaerList.iml" filepath="$PROJECT_DIR$/S2_Lektion23_Queue_CirkulaerList/S2_Lektion23_Queue_CirkulaerList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S2_Lektion24_Hashing/S2_Lektion24_Hashing.iml" filepath="$PROJECT_DIR$/S2_Lektion24_Hashing/S2_Lektion24_Hashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S2_Lektion25_GeneriskKlasser/S2_Lektion25_GeneriskKlasser.iml" filepath="$PROJECT_DIR$/S2_Lektion25_GeneriskKlasser/S2_Lektion25_GeneriskKlasser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S2_Lektion26_Hashing_Map/S2_Lektion26_Hashing_Map.iml" filepath="$PROJECT_DIR$/S2_Lektion26_Hashing_Map/S2_Lektion26_Hashing_Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S2_Lektion27_Trees/S2_Lektion27_Trees.iml" filepath="$PROJECT_DIR$/S2_Lektion27_Trees/S2_Lektion27_Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S2_Lektion28_BinarySeearchTree/S2_Lektion28_BinarySeearchTree.iml" filepath="$PROJECT_DIR$/S2_Lektion28_BinarySeearchTree/S2_Lektion28_BinarySeearchTree.iml" />
+    </modules>
+  </component>
+</project>
